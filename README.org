@@ -9,37 +9,37 @@
    |-----------------------------------------------------+-------+---------+-------------------+---------------------|
    | Editor/Workflow Features                            | Emacs | RStudio | JS Priority Level | JoLo Priority Level |
    |-----------------------------------------------------+-------+---------+-------------------+---------------------|
-   | Vim Keybindings                                     | x     |         | H                 |                     |
-   | Keybindings Keybindings Keybindings                 | x     |         | H                 |                     |
-   | No... My fingers seriously never leave the keyboard | x     |         | H                 |                     |
-   | Automated 80 character line                         | x     |         | L                 |                     |
-   | Editor Discovery/Help                               | x     |         | H                 |                     |
-   | Code Completion                                     | x     |         | H                 |                     |
-   | Syntax Highlighting                                 | x     |         | H                 |                     |
-   | Project Management                                  | x     |         | H                 |                     |
-   | Code Snippets                                       | x     |         | H                 |                     |
-   | Time tracking                                       | x     |         | H                 |                     |
-   | Todo management                                     | x     |         | H                 |                     |
-   | Reproducible Research                               | x     |         | H                 |                     |
-   | Language Ambivolence                                | x     |         | H                 |                     |
-   | Package development                                 | x     |         | H                 |                     |
-   | Code Unit Testing                                   | x     |         | H                 |                     |
-   | Code Coverage                                       | x     |         | H                 |                     |
-   | Git interface                                       | x     |         | H                 |                     |
-   | Development on Server                               | x     |         | H                 |                     |
-   | Popup function arguments                            | x     |         | H                 |                     |
-   | Navigate and run code from help                     | x     |         | H                 |                     |
-   | File manager                                        | x     |         | H                 |                     |
-   | View plots/html/pdf                                 | x     |         | H                 |                     |
-   | Window management                                   | x     |         | H                 |                     |
-   | Buffer Management/navigation                        | x     |         | H                 |                     |
-   | Latex Features                                      | x     |         | H                 |                     |
-   | Jump to definition                                  | x     |         | H                 |                     |
-   | Code search and jump                                | x     |         | H                 |                     |
-   | Tables                                              | x     |         | H                 |                     |
-   | Reminders                                           | x     |         | H                 |                     |
-   | Email                                               | x     |         | M                 |                     |
-   | Navigate webpages                                   | x     |         | L                 |                     |
-   | Play Music                                          | x     |         | L                 |                     |
-   | Play Video Games                                    | x     |         | L                 |                     |
+   | Vim Keybindings                                     | x     | x       | H                 | M-L                 |
+   | Keybindings Keybindings Keybindings                 | x     | x       | H                 | M                   |
+   | No... My fingers seriously never leave the keyboard | x     | x?      | H                 | M                   |
+   | Automated 80 character line                         | x     | x?      | L                 | L                   |
+   | Editor Discovery/Help                               | x     | x       | H                 | M                   |
+   | Code Completion                                     | x     | x       | H                 | M                   |
+   | Syntax Highlighting                                 | x     | x       | H                 | H                   |
+   | Project Management                                  | x     | x/o     | H                 | H                   |
+   | Code Snippets                                       | x     | x       | H                 | M                   |
+   | Time tracking                                       | x     | x/o     | H                 | L                   |
+   | Todo management                                     | x     | x/o     | H                 | L                   |
+   | Reproducible Research                               | x     | x       | H                 | H                   |
+   | Language Ambivolence                                | x     | x       | H                 | M                   |
+   | Package development                                 | x     | x       | H                 | H                   |
+   | Code Unit Testing                                   | x     | x       | H                 | H                   |
+   | Code Coverage                                       | x     | x       | H                 | H                   |
+   | Git interface                                       | x     | x/o     | H                 | M                   |
+   | Development on Server                               | x     | ?       | H                 | L                   |
+   | Popup function arguments                            | x     | x       | H                 | H                   |
+   | Navigate and run code from help                     | x     | ?       | H                 | L                   |
+   | File manager                                        | x     | x       | H                 | M                   |
+   | View plots/html/pdf                                 | x     | x       | H                 | H                   |
+   | Window management                                   | x     | ?       | H                 | H                   |
+   | Buffer Management/navigation                        | x     | ?       | H                 | L                   |
+   | Latex Features                                      | x     | x       | H                 | H                   |
+   | Jump to definition                                  | x     | x       | H                 | L                   |
+   | Code search and jump                                | x     | x       | H                 | M                   |
+   | Tables                                              | x     | ?       | H                 | H                   |
+   | Reminders                                           | x     | o       | H                 | M                   |
+   | Email                                               | x     | o       | M                 | M                   |
+   | Navigate webpages                                   | x     | o       | L                 | H                   |
+   | Play Music                                          | x     | o       | L                 | H                   |
+   | Play Video Games                                    | x     | o       | L                 | L                   |
    |-----------------------------------------------------+-------+---------+-------------------+---------------------|
