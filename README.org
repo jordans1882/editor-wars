@@ -1,0 +1,45 @@
+* Editor Wars
+
+  This repository is for comparing RStudio and Emacs as editors for general
+  programming relevant to an R user for a future UseR Meetup talk.
+
+   Use x for a feature in the editor or o for if you use an external program or
+   empty if not in workflow
+
+   |-----------------------------------------------------+-------+---------+-------------------+---------------------|
+   | Editor/Workflow Features                            | Emacs | RStudio | JS Priority Level | JoLo Priority Level |
+   |-----------------------------------------------------+-------+---------+-------------------+---------------------|
+   | Vim Keybindings                                     | x     |         | H                 |                     |
+   | Keybindings Keybindings Keybindings                 | x     |         | H                 |                     |
+   | No... My fingers seriously never leave the keyboard | x     |         | H                 |                     |
+   | Automated 80 character line                         | x     |         | L                 |                     |
+   | Editor Discovery/Help                               | x     |         | H                 |                     |
+   | Code Completion                                     | x     |         | H                 |                     |
+   | Syntax Highlighting                                 | x     |         | H                 |                     |
+   | Project Management                                  | x     |         | H                 |                     |
+   | Code Snippets                                       | x     |         | H                 |                     |
+   | Time tracking                                       | x     |         | H                 |                     |
+   | Todo management                                     | x     |         | H                 |                     |
+   | Reproducible Research                               | x     |         | H                 |                     |
+   | Language Ambivolence                                | x     |         | H                 |                     |
+   | Package development                                 | x     |         | H                 |                     |
+   | Code Unit Testing                                   | x     |         | H                 |                     |
+   | Code Coverage                                       | x     |         | H                 |                     |
+   | Git interface                                       | x     |         | H                 |                     |
+   | Development on Server                               | x     |         | H                 |                     |
+   | Popup function arguments                            | x     |         | H                 |                     |
+   | Navigate and run code from help                     | x     |         | H                 |                     |
+   | File manager                                        | x     |         | H                 |                     |
+   | View plots/html/pdf                                 | x     |         | H                 |                     |
+   | Window management                                   | x     |         | H                 |                     |
+   | Buffer Management/navigation                        | x     |         | H                 |                     |
+   | Latex Features                                      | x     |         | H                 |                     |
+   | Jump to definition                                  | x     |         | H                 |                     |
+   | Code search and jump                                | x     |         | H                 |                     |
+   | Tables                                              | x     |         | H                 |                     |
+   | Reminders                                           | x     |         | H                 |                     |
+   | Email                                               | x     |         | M                 |                     |
+   | Navigate webpages                                   | x     |         | L                 |                     |
+   | Play Music                                          | x     |         | L                 |                     |
+   | Play Video Games                                    | x     |         | L                 |                     |
+   |-----------------------------------------------------+-------+---------+-------------------+---------------------|
